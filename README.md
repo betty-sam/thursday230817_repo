@@ -29,3 +29,4 @@ if __name__ == "__main__":
             print(f'"{quote}" - {author}\n')
     else:
         print("No quotes found.")
+Bertoua and Nkongsamba
